@@ -1,5 +1,5 @@
 # MedOptimize Analytics: Оптимизация ресурсов мед. учреждения
-Командая работа студентов курса "Аналитика данных с МФТИ" (BHELDS-25_2) над датасетом кейса №5 - Hospital Patient Records Dataset (https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice).
+Командая работа студентов курса "Аналитика данных с МФТИ" (BHELDS-25_2) над датасетом кейса №5 - Hospital Patient Records Dataset ([![Kaggle Dataset](https://img.shields.io/badge/Kaggle-View%20Dataset-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice)).
 
 Дата проведения первой встречи команды с планированием 1 этапа - 12.08.2026 г.
 
