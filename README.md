@@ -1,2 +1,11 @@
-# DA_case5
-Team-based EDA on the Hospital Patient Records Dataset (https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice).
+# MedOptimize Analytics: Оптимизация ресурсов мед. учреждения
+Командая работа студентов курса "Аналитика данных с МФТИ" (BHELDS-25_2) над датасетом кейса №5 - Hospital Patient Records Dataset (https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice).
+## Этап 1 - предобработка данных.
+Дата проведения встречи команды - 12.08.2026 г. Результаты командого соглашения:
+1. Распределены роли участников: Аналитики данных (data analyst) - Матарыкина Е.С, Блохина С.Д., Селищев К.П., Миронова В.С., Макарова В.Ю., презентатор/коммуникатор - Блохина С.Д.;
+2. Координатор - Селищев К.П.;
+3. Решение 1 этапа закреплено в [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fixer1313/DA_case5/blob/main/notebooks/01_preprocessing.ipynb);
+4. Оригинальный датасет закреплён в файлах данного репозитория;
+5. Предобработанный датасет будет закреплён в файлах данного репозитория 13.08.2026 г, ответственный - Селищев К.П;
+6. Сигнализация о рисках - в беседе команды;
+7. Указанные в данном файле договорённости согласованы всей командой.
